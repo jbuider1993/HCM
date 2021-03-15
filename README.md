@@ -56,3 +56,4 @@ helm install my-release ingress-nginx/ingress-nginx
    //travis encrypt-file service-account.json -r USERNAME/REPO --pro
    travis encrypt-file service-account.json -r jbuilder1993@gmail.com/hcm  --pro //github project
    
+https://app-hcmtest.herokuapp.com/users
